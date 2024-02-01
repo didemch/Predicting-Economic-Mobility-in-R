@@ -1,1 +1,3 @@
 # economic-mobility
+
+Conducting an analysis of the `mobility` data. I will be looking at economic mobility across generations in the contemporary USA. The data comes from a large study, based on tax records, which allowed researchers to link the income of adults to the income of their parents several decades previously. For privacy reasons, data is aggregate statistics about economic mobility for several hundred communities, containing most of the American population, and covariate information about those communities. I am interested in predicting economic mobility from the characteristics of communities.
