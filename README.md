@@ -1,3 +1,3 @@
-# Economic mobility
+# Regularized methods: Linear regression, Ridge and Lasso regressions, glmnet 
 
-Conducting an analysis of the `mobility` data. I will be looking at economic mobility across generations in the contemporary USA. The data comes from a large study, based on tax records, which allowed researchers to link the income of adults to the income of their parents several decades previously. For privacy reasons, data is aggregate statistics about economic mobility for several hundred communities, containing most of the American population, and covariate information about those communities. I am interested in predicting economic mobility from the characteristics of communities.
+I'm analyzing `mobility` data to examine economic mobility across generations in modern USA. This data, derived from extensive tax records, links adult income to parental income from previous decades. It presents aggregate statistics on economic mobility for hundreds of communities, covering most of the American population, along with covariate information. My focus is on predicting economic mobility based on community characteristics.
